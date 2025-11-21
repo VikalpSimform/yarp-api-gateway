@@ -41,7 +41,7 @@ Group backend services and distribute traffic using strategies like **round-robi
 
 ## Run the Services
 
-### 1. Restore dependencies
+### Restore dependencies & Run projects
 ```bash
 dotnet restore
 
