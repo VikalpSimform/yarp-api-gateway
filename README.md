@@ -45,8 +45,6 @@ Group backend services and distribute traffic using strategies like **round-robi
 ```bash
 dotnet restore
 
-### 2. Run projects
-```bash
 dotnet run --project YarpGateway
 dotnet run --project CustomerService
 dotnet run --project OrderService
